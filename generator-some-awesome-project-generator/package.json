@@ -1,0 +1,18 @@
+{
+  "name": "generator-some-awesome-project-generator",
+  "version": "1.0.0",
+  "description": "A custom yeoman generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Sameeri Marryboyina",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "yeoman-generator": "^0.18.4"
+  }
+}
